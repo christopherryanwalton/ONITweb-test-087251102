@@ -6,8 +6,8 @@ const config = {
   
   contact: {
     email: process.env.REACT_APP_CONTACT_EMAIL || 'info@onitsolutions.com',
-    phone: process.env.REACT_APP_CONTACT_PHONE || '(555) 123-4567',
-    address: process.env.REACT_APP_CONTACT_ADDRESS || '123 Business Drive, Suite 100, Your City, ST 12345',
+    phone: process.env.REACT_APP_CONTACT_PHONE || '(856) 123-4567',
+    address: process.env.REACT_APP_CONTACT_ADDRESS || '409 Bloomfield Dr, Big Guy Township, NJ, 00201',
     supportEmail: 'support@onitsolutions.com',
     emergencyPhone: '(555) 123-4568'
   },
@@ -18,8 +18,8 @@ const config = {
   },
   
   businessHours: {
-    weekdays: '8:00 AM - 6:00 PM',
-    saturday: '9:00 AM - 2:00 PM',
+    weekdays: '8:30 AM - 6:00 PM',
+    saturday: 'Emergency Only',
     sunday: 'Emergency Only'
   }
 };
