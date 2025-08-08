@@ -1,0 +1,15 @@
+/* All animation keyframes and classes - completely NEW */
+@keyframes float { /* Service bubble floating */ }
+@keyframes floatReverse { /* Alternate floating direction */ }
+@keyframes pulse-glow { /* Glowing effect */ }
+@keyframes server-blink { /* Server LED blinking */ }
+@keyframes data-flow { /* Network line animation */ }
+
+.service-bubble { /* New class for service cards */ }
+.btn-hover { /* New class for button animations */ }
+.fade-in-up { /* New scroll-triggered animation */ }
+.slide-in-left { /* New scroll-triggered animation */ }
+.slide-in-right { /* New scroll-triggered animation */ }
+.network-line { /* New class for network connections */ }
+.server-light { /* New class for server LEDs */ }
+.nav-link { /* Enhanced navigation links */ }
